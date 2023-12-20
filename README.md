@@ -1,4 +1,4 @@
-"PixelMorpher: Image Alchemy App" offer users an interactive and versatile platform web-based platform to transform, edit, and generate diverse images or animations based on textual prompts or uploaded images. 
+"PixelMorpher: Image Alchemy App" offer users an interactive and versatile web-based platform to transform, edit, and generate diverse images or animations based on textual prompts or uploaded images. 
 It caters to users looking to experiment with creative image transformations, animations, and enhancements using AI-driven image processing functionalities.
 Provied with a Landing Page which serves as the entry point, providing options for different image manipulation functionalities.
 
